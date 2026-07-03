@@ -53,7 +53,7 @@ Here are some ideas to get you started:
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Pazran&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Pazran&show_icons=true&theme=tokyonight" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pazran&layout=compact&theme=tokyonight" />
 </p>
 
