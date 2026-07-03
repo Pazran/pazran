@@ -57,6 +57,6 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
-  .app/api/top-langs/?username=Pazran&layout=compact&theme=tokyonight" />
+  https://github-readme-stats.vercel.app/api/top-langs/?username=Pazran&layout=compact&theme=tokyonight"
 </p>
 
