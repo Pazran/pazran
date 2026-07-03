@@ -14,52 +14,44 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## ⚡ Stack
+<h2 align="center">⚡ Tech Stack</h2>
 
-### Languages
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
+</p>
 
-![Python](https://img.shields.io/badge/-Pythonyle=flat-square&logo=python&logoColor=white
-![PowerShell](https://img.ge/-PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white
-![C#](https://ields.io/badge/-C%23-512BD4?style=flat-square&logo=csharp&logoColor=white
-![Rust](https://img.shields.ioRust-000000?style=flat-square&logo=rust&logoColor=white
+<p align="center">
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Qdrant-FF4F8B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge" />
+</p>
 
-### Backend
+<p align="center">
+  <img src="https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tauri_2-FFC131?style=for-the-badge&logo=tauri&logoColor=black" />
+</p>
 
-https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white
-![Qdrant](https://s.io/badge/-Qdrant-FF4F8B?style=flat-square
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+</p>
 
-### Frontend
-
-![Svelte](https://img.shields.io/bte-FF3E00?style=flat-square&logo=svelte&logoColor=white
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat-squares&logoColor=white
-
-### Desktop
-
-![tps://img.shields.io/badge/-Tauri_2-FFC131?style=flat-square&logo=tauri&logoColor=black
-
-### Databases
-
-https://img.shields.io/badge/-SQL-4479A1?style=flat-square
-![SQLite](https://img.shields.io/badge/-SQLiteyle=flat-square&logo=sqlite&logoColor=white
-
-### Tools
-
-![Git](https://elds.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white
-![GitHub](https://img.shields.io/badge81717?style=flat-square&logo=github&logoColor=white
-![Docker](https://s.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white
-![Google Cloud](https://adge/-Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white
-
-### Development
-
-![Visual mg.shields.io/badge/-Visual_Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white
-![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?stylee&logo=visualstudiocode&logoColor=white
-
-### Operating Systems
-
-https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black
-https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=white
+<p align="center">
+  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+</p>
 
 ## 📊 GitHub Stats
 
-https://github-readme-stats.vercel.app/api?username=Pazran&show_icons=true&theme=tokyonight
-https://github-readme-stats.vercel.app/api/top-langs/?username=Pazran&layout=compact&theme=tokyonight
+![Stats](https://github-readme-stats.vercel.app/api?username=Pazran&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pazran&layout=compact&theme=tokyonight)
