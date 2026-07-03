@@ -16,38 +16,50 @@ Here are some ideas to get you started:
 -->
 ## ⚡ Stack
 
-**Languages**
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=whiteell](https://img.shields.io/badge/-PowerShell-5391FE?are&logo=powershell&logoColor=white
-![C#](https://img.shields.io/badge/-C%234?style=flat-square&logo=csharp&logoColor=white
-![Rust](https://img.shields.io/badge00000?style=flat-square&logo=rust&logoColor=white
+### Languages
 
-**Backend**
-![FastAPI](https://img.shields.io/badge/-Faststyle=flat-square&logo=fastapi&logoColor=white
-![Qdrant](https://img.shields.io/bnt-FF4F8B?style=flat-square
+![Python](https://img.shields.io/badge/-Pythonyle=flat-square&logo=python&logoColor=white
+![PowerShell](https://img.ge/-PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white
+![C#](https://ields.io/badge/-C%23-512BD4?style=flat-square&logo=csharp&logoColor=white
+![Rust](https://img.shields.ioRust-000000?style=flat-square&logo=rust&logoColor=white
 
-**Frontend**
-![Svelte](https://img.shields.io/badge/-Svelte-FF3E00?stylere&logo=svelte&logoColor=white
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind-06B6uare&logo=tailwindcss&logoColor=white
+### Backend
 
-**Desktop**
-![Tauri](https://img.shields.io/badge/-Tauri_style=flat-square&logo=tauri&logoColor=black
+https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white
+![Qdrant](https://s.io/badge/-Qdrant-FF4F8B?style=flat-square
 
-**Databases**
-![SQL](httpsshields.io/badge/-SQL-4479A1?style=flat-square
-![SQLite](https://img.shields.io/badge03B57?style=flat-square&logo=sqlite&logoColor=white
+### Frontend
 
-**Tools**
-![Git](https://img.shieldsge/-Git-F05032?style=flat-square&logo=git&logoColor=white
-![GitHub](https://img.shields.iotHub-181717?style=flat-square&logo=github&logoColor=white
-![Docker](https://img.shadge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white
-![Google Cloud](https://img.shields.io/badge/-Google_Cloud-4285F4?styleo=googlecloud&logoColor=white
+![Svelte](https://img.shields.io/bte-FF3E00?style=flat-square&logo=svelte&logoColor=white
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat-squares&logoColor=white
 
-**OS**
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&=black
-![Windows](https://img.shieldsWindows-0078D6?style=flat-square&logo=windows&logoColor=white
+### Desktop
+
+![tps://img.shields.io/badge/-Tauri_2-FFC131?style=flat-square&logo=tauri&logoColor=black
+
+### Databases
+
+https://img.shields.io/badge/-SQL-4479A1?style=flat-square
+![SQLite](https://img.shields.io/badge/-SQLiteyle=flat-square&logo=sqlite&logoColor=white
+
+### Tools
+
+![Git](https://elds.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white
+![GitHub](https://img.shields.io/badge81717?style=flat-square&logo=github&logoColor=white
+![Docker](https://s.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white
+![Google Cloud](https://adge/-Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white
+
+### Development
+
+![Visual mg.shields.io/badge/-Visual_Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white
+![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?stylee&logo=visualstudiocode&logoColor=white
+
+### Operating Systems
+
+https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black
+https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=white
 
 ## 📊 GitHub Stats
 
 https://github-readme-stats.vercel.app/api?username=Pazran&show_icons=true&theme=tokyonight
-
 https://github-readme-stats.vercel.app/api/top-langs/?username=Pazran&layout=compact&theme=tokyonight
